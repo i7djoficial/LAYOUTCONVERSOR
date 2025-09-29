@@ -1,0 +1,5 @@
+{
+  "name": "Contour to CSS Layout",
+  "description": "An application that analyzes an uploaded image to detect the contours of objects and generates a corresponding CSS layout representation using the Gemini API.",
+  "requestFramePermissions": []
+}
